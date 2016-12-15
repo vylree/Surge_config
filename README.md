@@ -9,9 +9,9 @@ Surge App 的配置文件,默认使用 Custom 方式,附加模块**SSEncrypt.mod
 
 - 移除了所有 `reject` 规则
 
-- 修改默认规则为 `noProxy`
+- 修改默认规则为 `nProxy`
 
-- 改变了所有与 Apple 有关的规则策略，使之全部走 Proxy
+- 改变了所有与 `Apple` 服务有关的规则策略，例如 `AppStore` ，`AppleMusic` ，使之全部走 `Proxy`，加快加载下载速度
 
 
 -----
