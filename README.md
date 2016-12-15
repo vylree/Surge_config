@@ -3,6 +3,19 @@ a config file for Surge application
 # Usage
 Surge App 的配置文件,默认使用 Custom 方式,附加模块**SSEncrypt.module**可在此处下载,
 
+## 更新内容（2016.12.15）
+
+- 增加对 `Managed feature` 的支持
+
+- 移除了所有 `reject` 规则
+
+- 修改默认规则为 `noProxy`
+
+- 改变了所有与 Apple 有关的规则策略，使之全部走 Proxy
+
+
+-----
+
 ## 更新内容(2016.4.21)
 
 - 增加了对 Apple DNS 加速的支持
